@@ -3,7 +3,7 @@ Working with Webpack and Bootstrap
 
 Intro:
 ------
-__Webpack__ is a build tool for web development. They call it module bundler.
+__Webpack__ is a __build tool__ for web development. They call it __module bundler__.
 
 To work with webpack we need  
 
