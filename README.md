@@ -16,8 +16,8 @@ To work with webpack we need
 
 2. nodejs specifically npm.  
     - To check whether node or npm is installed or not write the following two commands in terminal -  
-        * node --version  
-        * npm --version  
+        * `node --version`  
+        * `npm --version`  
 
 3. package.json file.  
     - inside the project folder `npm init` command creates this file.
